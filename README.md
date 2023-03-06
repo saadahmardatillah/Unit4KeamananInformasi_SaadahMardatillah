@@ -19,4 +19,6 @@ b.	Pay-per-view (PPV): saat iklan tayang di depan pengguna
 c.	Pay-per-install (PPI): setiap kali software berhasil terinstal ke device.
 4.	PUP (Potentially Unwanted Program) Salah satu jenis cybercrime berupa program yang disisipkan dalam sebuah aplikasi atau software. Dimana ketika men-download aplikasi tersebut, program akan ikut ter-download. Program tambah inilah yang disebut dengan PUPs yang bisa saja berupa adware atau spyware yang tidak diinginkan oleh pengguna. 
 
+## 2. Modul Praktikum Malware NJRAT 
+## Langkah Kerja: 
 
