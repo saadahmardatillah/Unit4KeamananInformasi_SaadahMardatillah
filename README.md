@@ -2,7 +2,7 @@
 
 ## 1. Analisis Anatomy Malware 
 TUGAS: Baca informasi tentang malware yang ditemukan dari pencarian Anda di langkah sebelumnya, pilih salah satu dan tulis ringkasan singkat yang menjelaskan apa yang dilakukan malware, cara penularannya, dan dampaknya. 
-## Penyelesaian: 
+## Penyelesaian Analisis Anatomy Malware: 
 Jenis malware adalah 
 1.	Ransomware adalah serangan malware yang dikirim peretas untuk mengunci dan mengenkripsi perangkat komputer milik korban. Ransomware adalah salah satu jenis malware (malicious software) yang bekerja dengan metode enkripsi––mengolah data menjadi kode yang tidak dapat dibaca oleh perangkat. Sehingga, menyebabkan korban tidak dapat mengakses perangkatnya sebelum data tersebut didekripsi––diolah kembali dari bentuk yang sudah dienkripsi agar dapat dibaca  oleh perangkat. Untuk dapat mendekripsi data pada perangkat yang terinfeksi Ransomware, kamu memerlukan kode dekripsi yang akan ditawarkan oleh peretas dengan membayar tebusan. Jika dalam waktu tertentu kamu belum dapat mendekripsikan perangkatmu, maka data-data yang ada di perangkat akan hilang.
 Dari semua jenis malware yang ada, Ransomware adalah salah satu yang paling berbahaya. Berbeda dengan malware lainnya, Ransomware dapat mengacaukan sistem perangkat hingga tidak dapat dioperasikan. Selain itu, Ransomware juga memiliki sifat yang dapat menyebar dan menginfeksi perangkat di sekitarnya. Sehingga, sangat berbahaya jika tidak segera ditangani dengan cepat. Umunya terdapat tujuh tahapan bagaiman ransomware bekerja, yaitu: 1) Infeksi, 2) Eksekusi, 3) Enkripsi, 4) Notifikasi, 5) Pembersihan, 6) Pembayaran, 7) Deskripsi. 
@@ -35,15 +35,20 @@ c.	Pay-per-install (PPI): setiap kali software berhasil terinstal ke device.
 ![builder](https://user-images.githubusercontent.com/99699435/223083467-3ecf6cc8-667e-4395-aa86-fddef5a9db2e.JPG)
 
 8. Menyimpan aplikasi hasil build 
+9. Lalu copy aplikasi keamananjaringan.exe yang telah dibuat ke dalam komputer victim
 
 ![NRAT host](https://user-images.githubusercontent.com/99699435/223084136-31405e1a-d0b0-4670-bb39-973ae4d268e9.JPG)
 
-9. Lalu copy aplikasi keamananjaringan.exe yang telah dibuat ke dalam komputer victim
+10. Klik kanan pada komputer dan pilih menu manager untuk melihat seluruh isi file manager pada komputer victim
 
 ![file manager](https://user-images.githubusercontent.com/99699435/223084184-da31324a-0e53-4980-9891-71490320cbb0.JPG)
  
+11.	Pada menu remote cam akan membuka webcam yang ada di komputer victim dan dapat melihat aktivitas yang dilakukan oleh victim. 
  
 ![remote cam](https://user-images.githubusercontent.com/99699435/223084216-a13f1593-4996-4c15-98f6-ce79792c8f81.JPG)
- 
-![chat message](https://user-images.githubusercontent.com/99699435/223084291-f1230c53-ea45-4ef8-b431-abad4f877d42.JPG)
- 
+
+12.	Melakukan chat message, untuk mengirim pesan ke layar desktop komputer victim dan user komputer dapat melakukan balasan tanpa bisa menutup chat. 
+
+![chat message](https://user-images.githubusercontent.com/99699435/223084291-f1230c53-ea45-4ef8-b431-abad4f877d42.JPG) 
+
+## Analisis Malware NJRAT 
