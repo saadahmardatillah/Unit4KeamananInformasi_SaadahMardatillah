@@ -1,12 +1,9 @@
 # Unit4KeamananInformasi_SaadahMardatillah
 
-## Analisis Hasil HTTP 
-
-
+## 1. Analisis Anatomy Malware 
 Baca informasi tentang malware yang ditemukan dari pencarian Anda di langkah sebelumnya, pilih salah satu dan tulis ringkasan singkat yang menjelaskan apa yang dilakukan malware, cara penularannya, dan dampaknya. 
-
-###Penyelesaian: 
-Jenis malware : 
+## Penyelesaian: 
+Jenis malware adalag 
 1.	Ransomware 
 Ransomware adalah serangan malware yang dikirim peretas untuk mengunci dan mengenkripsi perangkat komputer milik korban. Ransomware adalah salah satu jenis malware (malicious software) yang bekerja dengan metode enkripsi––mengolah data menjadi kode yang tidak dapat dibaca oleh perangkat. Sehingga, menyebabkan korban tidak dapat mengakses perangkatnya sebelum data tersebut didekripsi––diolah kembali dari bentuk yang sudah dienkripsi agar dapat dibaca  oleh perangkat. Untuk dapat mendekripsi data pada perangkat yang terinfeksi Ransomware, kamu memerlukan kode dekripsi yang akan ditawarkan oleh peretas dengan membayar tebusan. Jika dalam waktu tertentu kamu belum dapat mendekripsikan perangkatmu, maka data-data yang ada di perangkat akan hilang.
 Dari semua jenis malware yang ada, Ransomware adalah salah satu yang paling berbahaya. Berbeda dengan malware lainnya, Ransomware dapat mengacaukan sistem perangkat hingga tidak dapat dioperasikan. Selain itu, Ransomware juga memiliki sifat yang dapat menyebar dan menginfeksi perangkat di sekitarnya. Sehingga, sangat berbahaya jika tidak segera ditangani dengan cepat. Umunya terdapat tujuh tahapan bagaiman ransomware bekerja, yaitu: 1) Infeksi, 2) Eksekusi, 3) Enkripsi, 4) Notifikasi, 5) Pembersihan, 6) Pembayaran, 7) Deskripsi. 
