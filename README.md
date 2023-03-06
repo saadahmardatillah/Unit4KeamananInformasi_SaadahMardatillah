@@ -1,7 +1,7 @@
 # Unit4KeamananInformasi_SaadahMardatillah
 
 ## 1. Analisis Anatomy Malware 
-Baca informasi tentang malware yang ditemukan dari pencarian Anda di langkah sebelumnya, pilih salah satu dan tulis ringkasan singkat yang menjelaskan apa yang dilakukan malware, cara penularannya, dan dampaknya. 
+TUGAS: Baca informasi tentang malware yang ditemukan dari pencarian Anda di langkah sebelumnya, pilih salah satu dan tulis ringkasan singkat yang menjelaskan apa yang dilakukan malware, cara penularannya, dan dampaknya. 
 ## Penyelesaian: 
 Jenis malware adalag 
 1.	Ransomware 
