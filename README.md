@@ -30,5 +30,7 @@ c.	Pay-per-install (PPI): setiap kali software berhasil terinstal ke device.
 
 ![ip asddress](https://user-images.githubusercontent.com/99699435/223082928-1b9dcf31-15ee-4838-b824-12fec7b03bcd.JPG)
  
+ 7. Membuat aplikasi yang akan dipasang pada komputer victim. Masukan IP address host pada kolom host dan port yang sesuai dengan yang telah ditentukan, lalu klik tombol build
+ 
 ![builder](https://user-images.githubusercontent.com/99699435/223083467-3ecf6cc8-667e-4395-aa86-fddef5a9db2e.JPG)
 
