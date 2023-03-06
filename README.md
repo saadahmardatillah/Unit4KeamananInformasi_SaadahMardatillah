@@ -27,3 +27,5 @@ c.	Pay-per-install (PPI): setiap kali software berhasil terinstal ke device.
 4.	Melakukan download dan ektrak aplikasi njrat, kemudian run aplikasi pada njrat di komputer host. 
 5.	Masuk pada menu njrat dan memasukan kode port 5522. 
 6.	Lakukan check IP address pada host. IP address nanti yang akan digunakan oleh njrat dan memastikan berada pada pc berada pada satu jaringan. 
+![ip asddress](https://user-images.githubusercontent.com/99699435/223082928-1b9dcf31-15ee-4838-b824-12fec7b03bcd.JPG)
+ 
