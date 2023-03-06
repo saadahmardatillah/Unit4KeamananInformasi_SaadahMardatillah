@@ -34,3 +34,5 @@ c.	Pay-per-install (PPI): setiap kali software berhasil terinstal ke device.
  
 ![builder](https://user-images.githubusercontent.com/99699435/223083467-3ecf6cc8-667e-4395-aa86-fddef5a9db2e.JPG)
 
+8. Menyimpan aplikasi hasil build 
+
