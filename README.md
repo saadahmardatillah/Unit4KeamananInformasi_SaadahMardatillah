@@ -36,3 +36,11 @@ c.	Pay-per-install (PPI): setiap kali software berhasil terinstal ke device.
 
 8. Menyimpan aplikasi hasil build 
 
+![NRAT host](https://user-images.githubusercontent.com/99699435/223084136-31405e1a-d0b0-4670-bb39-973ae4d268e9.JPG)
+
+![file manager](https://user-images.githubusercontent.com/99699435/223084184-da31324a-0e53-4980-9891-71490320cbb0.JPG)
+ 
+![remote cam](https://user-images.githubusercontent.com/99699435/223084216-a13f1593-4996-4c15-98f6-ce79792c8f81.JPG)
+ 
+![chat message](https://user-images.githubusercontent.com/99699435/223084291-f1230c53-ea45-4ef8-b431-abad4f877d42.JPG)
+ 
