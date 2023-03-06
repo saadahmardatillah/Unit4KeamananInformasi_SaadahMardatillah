@@ -21,4 +21,9 @@ c.	Pay-per-install (PPI): setiap kali software berhasil terinstal ke device.
 
 ## 2. Modul Praktikum Malware NJRAT 
 ## Langkah Kerja: 
-
+1.	Menjalankan virtual machine pada PC. 
+2. Clone VM, untuk dijadikan target.
+3.	Matikan antivirus dan firewall pada kedua PC yang akan digunakan untuk memakai aplikasi njrat.
+4.	Melakukan download dan ektrak aplikasi njrat, kemudian run aplikasi pada njrat di komputer host. 
+5.	Masuk pada menu njrat dan memasukan kode port 5522. 
+6.	Lakukan check IP address pada host. IP address nanti yang akan digunakan oleh njrat dan memastikan berada pada pc berada pada satu jaringan. 
